@@ -1,0 +1,91 @@
+{
+  "123456789": {
+    "apellidos ": "dominguez campos",
+    "nombre": "pepe",
+    "recuerdos": {
+      "numero": 3,
+      "recuerdo1": {
+        "autor": "su padre juan",
+        "texto": "le gustaba mucho ir al cine"
+      },
+      "recuerdo2": {
+        "autor": "su hija antonia",
+        "texto": "le gustaba comer zanahorias"
+      },
+      "recuerdo3": {
+        "autor": "señor calazaba",
+        "texto": "le gustaba plantar cosas en el huerto"
+      }
+    }
+  },
+  "987654321": {
+    "date": "2020-11-11",
+    "dni": "987654321",
+    "gender": "Hombre",
+    "name": "dani",
+    "recuerdo": "",
+    "surname": "bedinger",
+    "url": "https://firebasestorage.googleapis.com/v0/b/tfg-v2.appspot.com/o/images%2Fcarlos_leon_0.png?alt=media&token=e534efa9-f30c-4ef5-9d53-5e5c8a0ae596"
+  },
+  "42169827H": {
+    "date": "1940-05-11",
+    "dni": "42169827H",
+    "gender": "Hombre",
+    "name": "María del Carmen",
+    "recuerdo": "MariCarmen era una persona alegre y simpática, aunque a veces dejaba ver su mal carácter, el cual no dejaba indiferente a nadie.",
+    "surname": "Algarra Martínez",
+    "url": "https://firebasestorage.googleapis.com/v0/b/tfg-v2.appspot.com/o/images%2FLos-abuelos-un-ejemplo-a-seguir.jpg?alt=media&token=38722fd2-ca03-401c-8334-40bd8377f79c"
+  },
+  "42369755C": {
+    "date": "1945-06-01",
+    "dni": "42369755C",
+    "gender": "Hombre",
+    "name": "Javier",
+    "recuerdo": "Era profesor de matemáticas en una academia universitaria, en su tiempo libre le gustaba caminar por el prado recogiendo amapolas",
+    "surname": "Flores Mar",
+    "url": "https://firebasestorage.googleapis.com/v0/b/tfg-v2.appspot.com/o/images%2Flos-abuelos-cumplen-un-rol___yTh_uVnL3_340x340__1.jpg?alt=media&token=247102ce-be5a-41bb-aa06-38616fdecc9a"
+  },
+  "56489741D": {
+    "date": "1932-05-04",
+    "dni": "56489741D",
+    "gender": "Hombre",
+    "name": "Carlota ",
+    "surname": "Jiménez Santos"
+  },
+  "56913441Y": {
+    "date": "1933-09-25",
+    "dni": "56913441Y",
+    "gender": "Hombre",
+    "name": "Juan",
+    "recuerdo": "Apasionado del fútbol, siendo fan del Real Madrid desde que tiene uso de razón. Por las tardes salía con su smartphone a cazar pokemons.",
+    "surname": "González Sánchez",
+    "url": "https://firebasestorage.googleapis.com/v0/b/tfg-v2.appspot.com/o/images%2Fabuelosabrazo-kLAG--1024x512%40abc.jpg?alt=media&token=188ae289-8880-412c-ab6b-301d8ba44915"
+  },
+  "83258827T": {
+    "date": "1929-04-25",
+    "dni": "83258827T",
+    "gender": "Mujer",
+    "name": "María del Carmen",
+    "recuerdo": "Costurera desde joven. Quedó viuda en el embarazo de su primera  y única hija. Aficionada al baile y a los juegos de mesa.",
+    "surname": "Algarra de Frutos",
+    "url": "https://firebasestorage.googleapis.com/v0/b/tfg-v2.appspot.com/o/images%2Fimg_fmartinez_20161125-204709_imagenes_lv_getty_gettyimages-86079878-kpKI-U4392786520JdG-992x558%40LaVanguardia-Web.jpg?alt=media&token=02c24bf9-9f0b-461f-b866-7cfae304a73e"
+  },
+  "prueba": {
+    "recuerdos": [
+      {
+        "autor": "pepe",
+        "texto": "hola que tal"
+      },
+      {
+        "autor": "juan",
+        "texto": "hola que tal estamos"
+      },
+      {
+        "autor": "maría",
+        "texto": "hola que tal, estamos bien o que??"
+      }
+    ]
+  }
+}
+
+  

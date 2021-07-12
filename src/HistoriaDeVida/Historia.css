@@ -1,0 +1,44 @@
+.form-filtro {
+    text-align: center;
+}
+
+.search-filtro {
+    text-align: center;
+}
+
+.conduct {
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdown-menu.show {
+    margin-bottom: 9000px;
+}
+
+.ordenaciones {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.historiaGeneradaLista {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+
+.historiaGeneradaLista > li {
+    margin-top: 20px;
+}
+
+.historieta > h4 {
+    margin-bottom: 20px;
+}
+
+.ordenaciones > span {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}

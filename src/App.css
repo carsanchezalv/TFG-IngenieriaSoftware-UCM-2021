@@ -1,0 +1,35 @@
+* {
+  font-family: 'Raleway', Arial, sans-serif;
+}
+.App {
+  text-align: center;
+  background-color: #b4bad2;
+  color: black;
+  width: 100%;
+  height: 100%;
+}
+
+html, body, #app, #app>div, body>div {
+  height: 100%;
+}
+
+.App-logo {
+  width: 10%;
+  pointer-events: none;
+  background: none;
+}
+
+ @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 3s alternate;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

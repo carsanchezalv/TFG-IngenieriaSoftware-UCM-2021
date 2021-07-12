@@ -1,0 +1,145 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 70%;
+    height: auto;
+    font-size: 30px;
+}
+
+th, td {
+    padding-left: 2%;
+    padding-right: 2%;
+    color: black;
+}
+
+p {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.recuerdos {
+    margin-top: 40px;
+}
+
+.imagenes {
+    margin-top: 40px;
+}
+
+.imagenes > h2 {
+    margin-bottom: 25px;
+}
+.recuerdos > h2 {
+    margin-bottom: 25px;
+}
+
+.eliminar {
+    margin-bottom: 40px;
+}
+
+hr {
+    background-color: white;
+    width: 70%;
+
+}
+
+h4, h2, .black{
+    color: black;
+}
+
+.recuadroRecuerdos {
+    border-bottom: 1px solid black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.form-image {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.mostrar_imagen_busqueda {
+    width: 30%;
+    height: 30%;
+    background: none;
+    margin-right: 100px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.search-form {
+    width: 750px;
+}
+
+.imagenesMostrar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
+
+/* .profile_img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+} */
+
+.recuadroImagnes > img{
+    width: 250px;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    min-height: 100%;
+}
+
+.recuadroVideos > video{
+    width: 250px;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recuadroImagnes, .recuadroAudios, .recuadroVideos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    overflow: auto;
+}
+
+#btnconfirmar{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.relacionesMostrar {
+    height: 100%;
+    width: 100%;
+}
+
+.formRelaciones {
+    width: 50%;
+}
+
+@media screen and (max-width: 900px) {
+    
+    .formRelaciones {
+        width: 90%;
+    }
+
+}
