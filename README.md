@@ -1,5 +1,4 @@
 # Trabajo Fin de Grado - Ingeniería del Software UCM
-### TFG de Carlos Cano, Carlos Sánchez, Daniel Bedinger y David Prats
 
 ## Sistema de asistencia para cuidados de enfermos del Alzheimer. Alzheimer’s care assistance system
 
